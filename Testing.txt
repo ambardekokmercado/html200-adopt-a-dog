@@ -1,0 +1,42 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2639
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 Adopt a Dog is a local Seattle based non-profit. We seek to place dogs in loving homes, and pride ourselves in a rigorous screening process that ensures our dogs end up in fur-ever homes. \
+\
+PERSONAS:\
+User Group 1: Young families seeking a forever family dog. \
+User Group 2: Young singles/ couples with expendable income seeking a companion. \
+User Group 3: Retired singles/couples seeking a companion in their golden years. \
+\
+As part of the testing cycle, all updates will be pushed to Sandbox first, where QA will be completed by UX. After UX has completed testing in Sandbox, all QA will be completed by the Technical team in the Testing environment. \
+\
+BROWSER TESTING: \
+* All browsers should be tested by UX in Sandbox, and by the Technical Team in the Testing environment. \
+Given the diversity of our users, all browsers should be tested at minimum on the most popular browsers, in order of common utilization. \
+1. Chrome\
+2. Firefox\
+3. Edge\
+4. Safari \
+5. Opera (if time allows)\
+\
+DEVICE TESTING:\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 * All devices should be tested by UX in Sandbox, and by the Technical Team in the Testing environment. \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 If possible, we should be testing on actual devices and not simulators. \
+\
+Desktop, \
+PC\
+Mac\
+\
+Tablet, \
+Android\
+Ipad\
+\
+Mobile, \
+Android\
+Ipad }
